@@ -7,7 +7,7 @@
 | battery_type                                                | 电池类型                    |
 | enable_new_smart_battery                                    | 强制降落                    |
 | forearm_led_ctrl/g_config.misc_cfg.forearm_lamp_ctrl        | 灯光控制                    |
-| g_config.diskcheck_topleft_check_disk                       | 飞行器内存检查 \*仅部分机型 |
+| g_config.diskcheck_topleft_check_disk                       | 飞行器储存检查 \*仅部分机型 |
 | g_config.flying_limit.avoid_ground_and_smart_landing_enable | 降落保护                    |
 | g_config.misc_cfg.follow_gimbal_yaw_en                      | 旋转平滑过渡                |
 | g_config.takeoff.auto_takeoff_height                        | 自动起飞悬停高度            |
