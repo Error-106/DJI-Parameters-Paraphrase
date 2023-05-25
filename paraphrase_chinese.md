@@ -4,6 +4,11 @@
 
 ### battery_type
 
+| 参数值 | 参数值意义       |
+| ------ | ---------------- |
+| 0      | 启用智能电池管理 |
+| 1      | 禁用智能电池管理 |
+
 ### enable_new_smart_battery
 
 ### forearm_led_ctrl\|g_config.misc_cfg.forearm_lamp_ctrl
