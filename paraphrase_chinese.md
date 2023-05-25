@@ -1,49 +1,51 @@
-# 杂项类
+# 参数值释义
 
-## battery_type
+## 杂项类
 
-## enable_new_smart_battery
+### battery_type
 
-## forearm_led_ctrl\|g_config.misc_cfg.forearm_lamp_ctrl
+### enable_new_smart_battery
+
+### forearm_led_ctrl\|g_config.misc_cfg.forearm_lamp_ctrl
 
 | 参数值 | 参数值意义     |
 | ------ | -------------- |
 | 0      | 完全关闭机臂灯 |
 | 239    | 正常开启机臂灯 |
 
-## g_config.diskcheck_topleft_check_disk
+### g_config.diskcheck_topleft_check_disk
 
-## g_config.flying_limit.avoid_ground_and_smart_landing_enable
+### g_config.flying_limit.avoid_ground_and_smart_landing_enable
 
-## g_config.misc_cfg.follow_gimbal_yaw_en
+### g_config.misc_cfg.follow_gimbal_yaw_en
 
-## g_config.takeoff.auto_takeoff_height
+### g_config.takeoff.auto_takeoff_height
 
-## g_config_fdi_open_close_auto_stop_motor_check
+### g_config_fdi_open_close_auto_stop_motor_check
 
-## g_config_mode_sport_cfg_vert_acc_down
+### g_config_mode_sport_cfg_vert_acc_down
 
-## min_hegiht_user
+### min_hegiht_user
 
-## sequence_start_en\|g_config.engine.sequence_start_en
+### sequence_start_en\|g_config.engine.sequence_start_en
 
-## vert_vel_down_adding_max
+### vert_vel_down_adding_max
 
-# 挡位类
+## 挡位类
 
-## 挡位参数
+### 挡位参数
 
 注:挡位主要的分别有 Normal(普通档) Sport(运动挡) Gentle(稳定挡)
 
-### g*config.mode*(挡位)_cfg.tors_gyro_range
+#### g*config.mode*(挡位)_cfg.tors_gyro_range
 
-### g*config.mode*(挡位)*cfg_vert*(up/down)
+#### g*config.mode*(挡位)*cfg_vert*(up/down)
 
-### mode*(挡位)\|_cfg_tilt_att_range/g_config.mode*(挡位)\|_cfg.tilt_atti_rang
+#### mode*(挡位)\|_cfg_tilt_att_range/g_config.mode*(挡位)\|_cfg.tilt_atti_rang
 
-## 挡位分配
+### 挡位分配
 
-### fswitch_selection[空/1/2]\|g_config.control.control_mode[0-12]
+#### fswitch_selection[空/1/2]\|g_config.control.control_mode[0-12]
 
 | 参数值 | 参数意义                                                            |
 | ------ | ------------------------------------------------------------------- |

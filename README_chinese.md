@@ -1,6 +1,6 @@
 # DJI-Parameters-Paraphrase
 
-## <font color="#dd0000">DJI-Parameters-Paraphrase 提醒您
+## DJI-Parameters-Paraphrase 提醒您
 
 ### 调参千万条，安全第一条。调参不规范，飞丢两行泪
 
