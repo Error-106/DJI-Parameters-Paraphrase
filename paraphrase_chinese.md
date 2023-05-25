@@ -11,6 +11,10 @@
 
 ### enable_new_smart_battery
 
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
+
 ### forearm_led_ctrl\|g_config.misc_cfg.forearm_lamp_ctrl
 
 | 参数值 | 参数值意义     |
@@ -20,21 +24,57 @@
 
 ### g_config.diskcheck_topleft_check_disk
 
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
+
 ### g_config.flying_limit.avoid_ground_and_smart_landing_enable
+
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
 
 ### g_config.misc_cfg.follow_gimbal_yaw_en
 
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
+
 ### g_config.takeoff.auto_takeoff_height
+
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
 
 ### g_config_fdi_open_close_auto_stop_motor_check
 
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
+
 ### g_config_mode_sport_cfg_vert_acc_down
+
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
 
 ### min_hegiht_user
 
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
+
 ### sequence_start_en\|g_config.engine.sequence_start_en
 
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
+
 ### vert_vel_down_adding_max
+
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
 
 ## 挡位类
 
@@ -44,9 +84,21 @@
 
 #### g*config.mode*(挡位)_cfg.tors_gyro_range
 
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
+
 #### g*config.mode*(挡位)*cfg_vert*(up/down)
 
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
+
 #### mode*(挡位)\|_cfg_tilt_att_range/g_config.mode*(挡位)\|_cfg.tilt_atti_rang
+
+| 参数值   | 参数释义 |
+| -------- | -------- |
+| 等待补全 | 等待补全 |
 
 ### 挡位分配
 
