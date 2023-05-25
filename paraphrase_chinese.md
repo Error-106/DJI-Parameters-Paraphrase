@@ -6,7 +6,7 @@
 
 ## forearm_led_ctrl\|g_config.misc_cfg.forearm_lamp_ctrl
 
-| 参数值 | 参数意义       |
+| 参数值 | 参数值意义     |
 | ------ | -------------- |
 | 0      | 完全关闭机臂灯 |
 | 239    | 正常开启机臂灯 |

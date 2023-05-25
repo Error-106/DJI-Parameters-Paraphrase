@@ -2,7 +2,7 @@
 
 ## [杂项类](paraphrase_chinese.md#杂项类)
 
-|                                                                                                                                                |                             |
+| 参数名                                                                                                                                         | 参数意义                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | [battery_type](paraphrase_chinese.md#battery_type)                                                                                             | 电池类型                    |
 | [enable_new_smart_battery](paraphrase_chinese.md#enable_new_smart_battery)                                                                     | 强制降落                    |
@@ -21,7 +21,7 @@
 
 ### 挡位参数
 
-|                                                                                                                                                                    |               |
+| 参数名                                                                                                                                                             | 参数意义      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
 | [g*config.mode*(挡位)_cfg.tors_gyro_range](paraphrase_chinese.md#gconfigmode挡位_cfgtors_gyro_range)                                                               | 左右旋转速度  |
 | [g*config.mode*(挡位)*cfg_vert*(up/down)](paraphrase_chinese.md#gconfigmode挡位cfg_vertupdown)                                                                     | 上升/下降速度 |
